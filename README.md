@@ -1,7 +1,7 @@
 # ANNOTATE!
 
 A **Streamlit-based annotation tool** designed to assist the annotation of the RorshIA project.  
-This app allows to validate automatically generated **Content** and **Determinant** labels in the data_exmaple.csv file, compare them with the original labels, and annotate with validated labels.
+This app allows to validate the LLM generated **Content** and **Determinant** labels in the data_exmaple.csv file, compare them with the explanation of the original labels, and annotate with validated labels.
 
 ---
 
