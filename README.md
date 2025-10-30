@@ -6,7 +6,7 @@ This app allows to validate automatically generated **Content** and **Determinan
 ---
 
 ![](Demo.gif)
----
+
 ## Input Files
 
 The app requires **two files**:
