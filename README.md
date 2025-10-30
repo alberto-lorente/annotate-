@@ -11,8 +11,6 @@ This app allows to validate automatically generated **Content** and **Determinan
 
 The app requires **two files**:
 
----
-
 ### 1. Data CSV File  
 Containing the responses and existing annotations.  
 Must include the following columns:
@@ -37,6 +35,7 @@ Containing explanations for each annotation category, formatted as:
         "LABEL": "explanation.",
     }
 }
+```
 
 ---
 
